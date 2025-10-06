@@ -1,7 +1,7 @@
 ## Live Demo
 
 Check out my live portfolio here:  
-[Live Demo Click Here](https://sonamsrivastava555.github.io/my-portfolio/)
+[ Click Here](https://sonamsrivastava555.github.io/my-portfolio/)
 
 ## About Me
 

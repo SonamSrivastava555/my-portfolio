@@ -4,10 +4,10 @@ import ProjectCard from "./ProjectCard";
 const Projects = () => {
   return (
 <>
-<div id="project" className="text-white bg-sky-950 w-300 mx-auto rounded-md ">
-    <div className="p-10 md:p-24 text-white ">
-      <h1 className="text-4xl md:text-4xl text-white font-bold text-center ">Projects</h1>
-      <div className="py-12 px-8  flex flex-wrap gap-9">
+<div id="project" className="text-white bg-sky-950 max-w-6xl mx-auto rounded-md">
+  <div className="p-6 md:p-16 text-white">
+    <h1 className="text-4xl font-bold text-center">Projects</h1>
+    <div className="py-8 px-4 flex flex-wrap justify-center gap-6 md:gap-9">
         <ProjectCard
           title="Weather App" demoUrl="https://sonamsrivastava555.github.io/Weather-App/" sourceCode="https://github.com/SonamSrivastava555/Weather-App"
           main="This is a Weather app created in React js and used features Search weather by city name, Shows temperature, humidity, and weather condition, Responsive UI (mobile + desktop), Built with React + Vite"  />
